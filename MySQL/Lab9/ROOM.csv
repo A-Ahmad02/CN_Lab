@@ -1,0 +1,5 @@
+RoomNo,HotelNo,RoomType,Price
+1,2,Single,150
+2,1,Double,250
+2,4,DeluxeSuite,400
+1,3,Penthouse,1000
